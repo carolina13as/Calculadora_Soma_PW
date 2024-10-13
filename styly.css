@@ -1,0 +1,18 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cont {
+    margin-top: 16%;
+    margin-left: 40%;
+    flex-flow: column;
+    background-color:#e9fdf6;
+    width: 254px;
+}
+#submit{
+margin-left: 95px;
+background-color: #7cf281;
+border-radius: 7px;
+border-color: darkseagreen;
+margin-top: 15px;
+}
